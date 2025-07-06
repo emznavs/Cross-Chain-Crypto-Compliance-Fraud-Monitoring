@@ -1,0 +1,3 @@
+txn_hash,user_id,block_time,chain,asset,amount,fee,is_flagged
+0xabc123,usr1,2025-06-25 09:13:01,Ethereum,USDC,1000.0,1.5,0
+0xdef456,usr2,2025-06-25 09:15:22,Polygon,MATIC,500.0,0.3,0

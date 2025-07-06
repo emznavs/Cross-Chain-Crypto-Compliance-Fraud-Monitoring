@@ -1,0 +1,3 @@
+_id,user_id,timestamp,event_type,wallet_type,device_id,ip,geo
+686a448ab0465ef18d23cca3,usr1,2025-06-25 09:12:34,signup,MetaMask,devA,198.51.100.23,"{'country': 'US', 'lat': 37.77, 'lon': -122.42}"
+686a448ab0465ef18d23cca4,usr2,2025-06-25 09:13:12,quote_request,Coinbase,devB,203.0.113.42,"{'country': 'UK', 'lat': 51.51, 'lon': -0.13}"
