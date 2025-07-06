@@ -1,3 +1,10 @@
 _id,user_id,timestamp,event_type,wallet_type,device_id,ip,geo
-686a448ab0465ef18d23cca3,usr1,2025-06-25 09:12:34,signup,MetaMask,devA,198.51.100.23,"{'country': 'US', 'lat': 37.77, 'lon': -122.42}"
-686a448ab0465ef18d23cca4,usr2,2025-06-25 09:13:12,quote_request,Coinbase,devB,203.0.113.42,"{'country': 'UK', 'lat': 51.51, 'lon': -0.13}"
+686a72853881a44bff67e1c9,usr1,2025-06-25 09:12:34,signup,MetaMask,devA,198.51.100.23,"{'country': 'US', 'lat': 37.77, 'lon': -122.42}"
+686a72853881a44bff67e1ca,usr1,2025-06-25 09:13:10,login,MetaMask,devA,198.51.100.23,"{'country': 'US', 'lat': 37.77, 'lon': -122.42}"
+686a72853881a44bff67e1cb,usr1,2025-06-25 09:14:00,transfer,MetaMask,devA,198.51.100.23,"{'country': 'US', 'lat': 37.77, 'lon': -122.42}"
+686a72853881a44bff67e1cc,usr2,2025-06-25 09:13:12,signup,Coinbase,devB,203.0.113.42,"{'country': 'UK', 'lat': 51.51, 'lon': -0.13}"
+686a72853881a44bff67e1cd,usr2,2025-06-25 09:15:20,quote_request,Coinbase,devB,203.0.113.42,"{'country': 'UK', 'lat': 51.51, 'lon': -0.13}"
+686a72853881a44bff67e1ce,usr2,2025-06-25 09:16:00,transfer,Coinbase,devB,203.0.113.42,"{'country': 'UK', 'lat': 51.51, 'lon': -0.13}"
+686a72853881a44bff67e1cf,usr3,2025-06-25 09:17:00,transfer,MetaMask,devC,198.51.100.50,"{'country': 'US', 'lat': 40.71, 'lon': -74.0}"
+686a72853881a44bff67e1d0,usr3,2025-06-25 09:17:10,transfer,MetaMask,devC,198.51.100.50,"{'country': 'US', 'lat': 40.71, 'lon': -74.0}"
+686a72853881a44bff67e1d1,usr3,2025-06-25 09:17:20,transfer,MetaMask,devC,198.51.100.50,"{'country': 'US', 'lat': 40.71, 'lon': -74.0}"
